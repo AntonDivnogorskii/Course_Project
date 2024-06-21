@@ -72,29 +72,7 @@ namespace SpeedConstant {
 	private: System::Windows::Forms::SaveFileDialog^ saveFileDialog1;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 	private: System::ComponentModel::IContainer^ components;
-
-
-
-
-
-
-
-
-
 
 
 	private:
